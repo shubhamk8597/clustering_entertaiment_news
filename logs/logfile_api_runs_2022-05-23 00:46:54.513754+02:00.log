@@ -1,0 +1,19 @@
+2022-05-22 22:46:55 INFO      * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000 (Press CTRL+C to quit)
+2022-05-22 22:47:04 INFO     172.17.0.1 - - [22/May/2022 22:47:04] "GET /apidocs/ HTTP/1.1" 200 -
+2022-05-22 22:47:04 INFO     172.17.0.1 - - [22/May/2022 22:47:04] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-22 22:47:04 INFO     172.17.0.1 - - [22/May/2022 22:47:04] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-22 22:47:04 INFO     172.17.0.1 - - [22/May/2022 22:47:04] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-22 22:47:04 INFO     172.17.0.1 - - [22/May/2022 22:47:04] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2022-05-22 22:47:04 INFO     172.17.0.1 - - [22/May/2022 22:47:04] "GET /apispec_1.json HTTP/1.1" 200 -
+2022-05-22 22:47:15 INFO     Sucessfully Processed Request<Response 77 bytes [200 OK]> 
+2022-05-22 22:47:15 INFO     172.17.0.1 - - [22/May/2022 22:47:15] "GET / HTTP/1.1" 200 -
+2022-05-22 22:47:18 INFO     172.17.0.1 - - [22/May/2022 22:47:18] "GET /apidocs/ HTTP/1.1" 200 -
+2022-05-22 22:47:18 INFO     172.17.0.1 - - [22/May/2022 22:47:18] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2022-05-22 22:47:18 INFO     172.17.0.1 - - [22/May/2022 22:47:18] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2022-05-22 22:47:18 INFO     172.17.0.1 - - [22/May/2022 22:47:18] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2022-05-22 22:47:18 INFO     172.17.0.1 - - [22/May/2022 22:47:18] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2022-05-22 22:47:19 INFO     172.17.0.1 - - [22/May/2022 22:47:19] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2022-05-22 22:47:19 INFO     172.17.0.1 - - [22/May/2022 22:47:19] "GET /apispec_1.json HTTP/1.1" 200 -

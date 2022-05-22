@@ -1,1 +1,1 @@
-# clustering_entertaiment_news
+# Clustering Entertainment News
