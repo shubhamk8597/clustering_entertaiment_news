@@ -14,7 +14,7 @@ class Flask_API_Test(unittest.TestCase):
         statuscode = response.status_code
         self.assertEqual(statuscode,200)
 
-    #Check if response is json
+    #Check if response returned is json
     def test_response_json(self):
         tester = app.test_client(self)
         response = tester.get("/")
